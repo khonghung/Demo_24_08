@@ -1,0 +1,16 @@
+[
+  {
+    "name": "admin",
+    "age": "21",
+    "address": "hkjhlkhk",
+    "image": "images/image.png",
+    "password": "admin"
+  },
+  {
+    "name": "hung",
+    "age": "21",
+    "address": "hkjhlkhk",
+    "image": "images/image.png",
+    "password": "hung"
+  }
+]
